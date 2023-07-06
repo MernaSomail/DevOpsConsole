@@ -43,7 +43,7 @@ namespace DevOpsConsole
                 catch (Exception)
                 {
 
-                    Console.WriteLine("Please enter correct data");
+                    Console.WriteLine("Please Enter Correct Data");
                 }
             }
            
